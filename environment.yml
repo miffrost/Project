@@ -1,0 +1,19 @@
+name: Uusimaa
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets>=7.5,<8
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - json
+  - math
+  - sympy
+  - xlrd
+  - pyproj
+  - seaborn
+  - folium
+  - webbrowser
+  - geopandas
+  - voila
